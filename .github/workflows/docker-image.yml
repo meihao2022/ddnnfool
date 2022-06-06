@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: nnan888/jsjs2022
+          tags: meiihao2022/jsjs
